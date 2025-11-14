@@ -3,7 +3,7 @@
 class Database
 {
     private $host = "localhost";
-    private $db_name = "spk_database";
+    private $db_name = "waktunya_sholat_db";
     private $username = "root";
     private $password = "";
     public $conn;
